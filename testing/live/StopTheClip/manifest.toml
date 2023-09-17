@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/ProjectMimer/StopTheClip.git"
-commit = "d9fa5cdba243314869ae9b30c789a9599a8ab084"
+commit = "92c721ef92f958d18939c468acfdf9f1bfa3428d"
 owners = ["ProjectMimer"]
 project_path = "StopTheClip"
 changelog = ""
