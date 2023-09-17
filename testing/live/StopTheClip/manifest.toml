@@ -3,4 +3,4 @@ repository = "https://github.com/ProjectMimer/StopTheClip.git"
 commit = "92c721ef92f958d18939c468acfdf9f1bfa3428d"
 owners = ["ProjectMimer"]
 project_path = "StopTheClip"
-changelog = ""
+changelog = "Added Clipping"
