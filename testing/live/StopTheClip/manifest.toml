@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/ProjectMimer/StopTheClip.git"
-commit = "f20d09049cc0a1ee158454c2474479a42175a159"
-owners = ["ProjectMimer"]
-project_path = "StopTheClip"
-changelog = "Added Clipping"
